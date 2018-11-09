@@ -1,0 +1,10 @@
+Meeting Minutes 11/8/18 - Back End
+Present: Sam, Tyler, Sasha
+
+-Updated the database by adding the table 'ingredients'
+-Added all the values into the tables and formatted them correctly
+-Pushed edited versions of the database file to the Code git
+-Created a database folder in git that contains all the old versions of the database file
+-Couldn't figure out how to merge files on git (that is why there are so many versions)
+-Tyler worked on the chart that shows the relation between tables in the database
+-Got an error when trying to add the values (going to office hours tomorrow 11/9/18 to see what is wrong)
